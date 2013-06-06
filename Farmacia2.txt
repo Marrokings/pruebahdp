@@ -1,0 +1,21 @@
+100
+Cofal
+3.0
+0.13
+Pomada
+Lab. Ancalmo
+12/12/2015
+101
+Intestinomicina
+0.1
+0.08
+Pastillas
+Lab. Laínez
+20/05/2013
+102
+Canesten
+3.75
+0.12
+Crema
+Lab. López
+12/12/2014
